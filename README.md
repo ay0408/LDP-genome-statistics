@@ -1,1 +1,1 @@
-# LDP_genome_statistics
+# LDP-genome-statistics
