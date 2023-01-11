@@ -8,11 +8,13 @@ and analyses considering correction for population stratification.
 
 The procedure to generate simulation data on genome statistics can be found in the "Simulation Data" file.
 
-"Accuracy" files contain the experimental results on differences between the original and private statistics.
+"Accuracy" files contain the experimental results on differences between the original and differentially private statistics.
 
 ## Note
 
 For details of our mechanisms, please see our paper entitled "Privacy-Preserving Genomic Statistical Analysis under Local Differential Privacy".
+
+
 In the paper, we also mention the case where different privacy budgets are assigned to two different attributes, e.g., genotype information and disease status, or row and column information of a contingency table.
 
 ### Contact
