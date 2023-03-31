@@ -12,6 +12,12 @@ The procedure to generate simulation data on genome statistics can be found in t
 
 In the Supplementary Material, we describe the key statistics in GWAS and briefly discuss the existing studies and thier problems. Then, we provide the proofs of our theorems and supplemental information on the proposed methods and experiments.
 
+## Important future directions
+
+・Improve accuracy at cases of small ε. (e.g., utilize smooth sensitivity or improve the EM algorithm or analyze the recovered statistics in more detail)
+
+・Extend our methods for the cases with two attribute data to more general cases, such as analyses using an M × N table.
+
 ## Note
 
 For details of our mechanisms, please see our paper entitled "Privacy-Preserving Genomic Statistical Analysis under Local Differential Privacy".
