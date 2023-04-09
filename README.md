@@ -14,7 +14,7 @@ In the Supplementary Material, we describe the key statistics in GWAS and briefl
 
 ## Important future directions
 
-・Improving accuracy at cases of small ε. (e.g., utilize the RAPPOR-based techniques or improve the EM algorithm or analyze the recovered statistics in more detail)
+・Improving accuracy at cases of small ε. (e.g., utilizing the RAPPOR-based techniques or improving the EM algorithm or analyzing the recovered statistics in more detail)
 
 ・Extending our methods for the cases with two attribute data to more general cases, such as analyses using an M × N table.
 
