@@ -4,7 +4,7 @@ This contains Python codes used in our experiments on local differentially priva
 We employ the Randomized Response technique to satisfy LDP.
 
 Our methods can be utilized in releasing key statistics in GWAS, e.g., chi^2-tests using a contingency table.
-We focus on releasing statistics for individual SNP at this time, but we plan to move forward with research to publish multiple statistics for many SNPs, including noise reduction and privacy evaluation.
+We focus on releasing statistics for an individual SNP at this time, but we plan to move forward with research to publish multiple statistics for many SNPs, including noise reduction and privacy evaluation.
 
 The procedure to generate simulation data on genome statistics can be found in the "Simulation Data" file.
 
