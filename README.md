@@ -3,7 +3,7 @@
 This contains Python codes used in our experiments on local differentially private (LDP) methods to release genome statistics.
 We employ the Randomized Response technique to satisfy LDP.
 
-Our methods can be utilized in releasing key statistics in GWAS, e.g., chi^2-tests using a contingency table. Note that this study assumes that adversaries do not know the row/column sums in a contingency table. If we or adversaries want to know these values, one possible solution is to release values using the Laplace mechanism.
+Our methods can be utilized in releasing key statistics in GWAS, e.g., chi^2-tests using a contingency table. Note that even if row/column sums are released at the same time, the privacy level will not change.
 
 We focus on releasing statistics for an individual SNP at this time, but we plan to move forward with research to publish multiple statistics for many SNPs, including noise reduction and privacy evaluation.
 
@@ -11,7 +11,7 @@ The procedure to generate simulation data on genome statistics can be found in "
 
 "Accuracy" folder contains the experimental results on differences between the original and differentially private statistics.
 
-In the Supplementary Material, we describe the key statistics in GWAS and briefly discuss the existing studies and thier problems. Then, we provide the proofs of our theorems and supplemental information on the proposed methods and experiments.
+In the Supplementary Material, we provide supplemental discussion on the proposed methods and all experimental results.
 
 ## Important future directions
 
