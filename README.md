@@ -11,7 +11,7 @@ The procedure to generate simulation data on genome statistics can be found in "
 
 "Accuracy" folder contains the experimental results on differences between the original and differentially private statistics.
 
-In the Supplementary Material, we provide supplemental discussion on the proposed methods and all experimental results.
+In Supplements.pdf, we provide supplemental discussion on the proposed methods and all experimental results.
 
 ## Important future directions
 
