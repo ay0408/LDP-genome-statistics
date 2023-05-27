@@ -1,6 +1,6 @@
 # LDP-genome-statistics
 
-This contains Python codes used in our experiments on local differentially private (LDP) methods to release genome statistics.
+This contains Python codes used in our experiments on local differentially private (LDP) methods for releasing genome statistics.
 We employ the Randomized Response technique to satisfy LDP.
 
 Our methods can be utilized in releasing key statistics in GWAS, e.g., chi^2-tests using a contingency table. Note that even if row/column sums are released at the same time, the privacy level will not change.
