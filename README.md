@@ -11,7 +11,7 @@ The procedure to generate simulation data on genome statistics can be found in "
 
 "Accuracy" folder contains the experimental results on differences between the original and differentially private statistics.
 
-In Supplements.pdf, we provide supplemental discussion on the proposed methods and all experimental results.
+In Supplements.pdf, we provide detailed discussion on the proposed methods and all experimental results.
 
 ## Important future directions
 
@@ -20,8 +20,7 @@ In Supplements.pdf, we provide supplemental discussion on the proposed methods a
 ・Extending our methods for the cases with two attribute data to more general cases, such as analyses using an M × N table.
 
 ## Note
-
-For details of our mechanisms, please see our paper entitled "Privacy-Preserving Genomic Statistical Analysis under Local Differential Privacy".
+Our paper entitled "Privacy-Preserving Genomic Statistical Analysis under Local Differential Privacy" will appear at DBSec 2023.
 
 
 In the paper, we also mention the case where different privacy budgets are assigned to two different attributes, e.g., genotype information and disease status, or row and column information of a contingency table.
