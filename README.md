@@ -1,4 +1,4 @@
-# LDP-genome-statistics
+# Genomic Statistical Analysis under Local Differential Privacy
 
 This contains Python codes used in our experiments on local differentially private (LDP) methods for releasing genome statistics.
 We employ the Randomized Response technique to satisfy LDP.
