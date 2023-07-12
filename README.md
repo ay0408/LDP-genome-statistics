@@ -20,7 +20,7 @@ In Supplements.pdf, we provide detailed discussion on the proposed methods and a
 ・Extending our methods for the cases with two attribute data to more general cases, such as analyses using an M × N table.
 
 ## Note
-Our paper entitled "Privacy-Preserving Genomic Statistical Analysis under Local Differential Privacy" will appear at DBSec 2023.
+Our paper entitled "Privacy-Preserving Genomic Statistical Analysis Under Local Differential Privacy" (https://doi.org/10.1007/978-3-031-37586-6_3) will appear at DBSec 2023.
 
 
 In the paper, we also mention the case where different privacy budgets are assigned to two different attributes, e.g., genotype information and disease status, or row and column information of a contingency table.
