@@ -23,7 +23,7 @@ In Supplements.pdf, we provide detailed discussion on the proposed methods and a
 Our paper entitled "Privacy-Preserving Genomic Statistical Analysis Under Local Differential Privacy" (https://doi.org/10.1007/978-3-031-37586-6_3) will appear at DBSec 2023.
 
 
-In the paper, we also mention the case where different privacy budgets are assigned to two different attributes, e.g., genotype information and disease status, or row and column information of a contingency table.
+In the paper, we also mention the case of assigning privacy budgets to each of two different attributes, e.g., genotype information and disease status, or row and column information of a contingency table.
 
 ### Contact
 Akito Yamamoto
